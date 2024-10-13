@@ -1,0 +1,22 @@
+{
+  "id": "frozen-ocean-biome_-1551-63-129",
+  "name": "frozen ocean biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13082489-waypoint-icon.png",
+  "x": -1551,
+  "y": 63,
+  "z": 129,
+  "r": 56,
+  "g": 96,
+  "b": 135,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

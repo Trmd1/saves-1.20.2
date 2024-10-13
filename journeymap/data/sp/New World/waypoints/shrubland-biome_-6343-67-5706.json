@@ -1,0 +1,22 @@
+{
+  "id": "shrubland-biome_-6343-67-5706",
+  "name": "shrubland biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5622582-waypoint-icon.png",
+  "x": -6343,
+  "y": 67,
+  "z": -5706,
+  "r": 170,
+  "g": 52,
+  "b": 202,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

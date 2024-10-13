@@ -1,0 +1,22 @@
+{
+  "id": "coniferous-forest-biome_-4474-66-3017",
+  "name": "coniferous forest biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4829179-waypoint-icon.png",
+  "x": -4474,
+  "y": 66,
+  "z": -3017,
+  "r": 182,
+  "g": 80,
+  "b": 5,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

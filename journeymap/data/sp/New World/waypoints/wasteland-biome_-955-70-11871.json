@@ -1,0 +1,22 @@
+{
+  "id": "wasteland-biome_-955-70-11871",
+  "name": "wasteland biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--3931178-waypoint-icon.png",
+  "x": -955,
+  "y": 70,
+  "z": -11871,
+  "r": 196,
+  "g": 3,
+  "b": 214,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

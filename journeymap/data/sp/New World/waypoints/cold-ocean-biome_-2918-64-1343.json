@@ -1,0 +1,22 @@
+{
+  "id": "cold-ocean-biome_-2918-64-1343",
+  "name": "cold ocean biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7349025-waypoint-icon.png",
+  "x": -2918,
+  "y": 64,
+  "z": -1343,
+  "r": 143,
+  "g": 220,
+  "b": 223,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

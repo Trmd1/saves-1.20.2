@@ -1,0 +1,22 @@
+{
+  "id": "desert-biome_-179-78-11598",
+  "name": "desert biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--3870198-waypoint-icon.png",
+  "x": -179,
+  "y": 78,
+  "z": -11598,
+  "r": 196,
+  "g": 242,
+  "b": 10,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

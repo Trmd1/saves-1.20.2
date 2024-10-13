@@ -1,0 +1,5453 @@
+{
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/green_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/friend_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-10-14 01:17:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-13 22:42:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-10-13 22:11:45 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/black_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/shell_bell": {
+    "criteria": {
+      "has_shoal_salt": "2024-10-13 22:11:34 +0200",
+      "has_shoal_shell": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/light_blue_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/magenta_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/magenta_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/galarica_wreath": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/yellow_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/sport_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/moon_stone/moon_stone_equipment": {
+    "criteria": {
+      "has_moon_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/green_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/gray_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/red_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/blue_flute": {
+    "criteria": {
+      "has_blue_shard": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/black_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/green_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/white_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine_display": {
+    "criteria": {
+      "has_fossil_machine_base": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/wailmer_pail": {
+    "criteria": {
+      "has_water_bucket": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/summon/zygarde_cube": {
+    "criteria": {
+      "has_ultra_deep_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/blue_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/yellow_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/lime_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-10-13 22:24:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-10-13 22:44:17 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/red_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-13 22:46:48 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_sandstone_wall_from_ultra_desert_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-10-13 22:12:12 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/water_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/rare_soda": {
+    "criteria": {
+      "has_soda": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/temple_stairs": {
+    "criteria": {
+      "has_temple_block": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/ultra_space_stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/dawn_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/cyan_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2024-10-13 23:00:38 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/cloning/cloning_machine": {
+    "criteria": {
+      "has_green_tank": "2024-10-13 22:11:34 +0200",
+      "has_orange_tank": "2024-10-13 22:11:34 +0200",
+      "has_cord": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:44 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/purple_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/cyan_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/colorful_juice": {
+    "criteria": {
+      "has_juice_berry_3": "2024-10-14 00:51:29 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/orange_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-10-13 22:44:17 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/jet_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/boulder": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200",
+      "has_clay_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/ultra_space_stone_wall_from_ultra_space_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/purple_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/dawn_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/summon/uno_orb": {
+    "criteria": {
+      "has_orb": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/polished_ultra_space_stone_wall_from_polished_ultra_space_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/purple_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/moon_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/purple_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/purple_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/shiny_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/orange_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/moon_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-13 22:46:48 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/brown_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/temple_brick": {
+    "criteria": {
+      "has_temple_block": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/black_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/lime_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/stone_hammer": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-10-13 22:21:39 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_ultra_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/gray_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/dusk_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/lime_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/ev_boost/protein": {
+    "criteria": {
+      "has_feather": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/brown_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/light_blue_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/cyan_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/thunder_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/lime_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mug_pika": {
+    "criteria": {
+      "has_light_ball": "2024-10-13 22:11:34 +0200",
+      "has_clay": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/blue_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_planks": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/brown_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/fire_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/item_frame": {
+    "criteria": {
+      "has_painting": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/ev_boost/iron": {
+    "criteria": {
+      "has_feather": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-10-13 22:55:01 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/leaf_stone/leaf_stone_equipment": {
+    "criteria": {
+      "has_leaf_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/leaf_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/movement_plate": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/yellow_flute": {
+    "criteria": {
+      "has_yellow_shard": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/cyan_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/fire_stone/fire_stone_equipment": {
+    "criteria": {
+      "has_fire_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-10-13 22:12:12 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/light_gray_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/purple_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/dawn_stone/dawn_stone_equipment": {
+    "criteria": {
+      "has_dawn_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/galarica_cuff": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/cluttered_box": {
+    "criteria": {
+      "has_box": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/dusk_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/light_blue_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-10-13 22:11:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/poke_grass": {
+    "criteria": {
+      "has_grass": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/silver_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_gray_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/green_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-10-13 22:24:06 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/black_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/purple_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/ev_boost/hp_up": {
+    "criteria": {
+      "has_feather": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/red_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/leaf_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/blue_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-10-14 00:53:29 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/chiseled_ultra_space_stone": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_planks": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/ball/great_ball": {
+    "criteria": {
+      "has_poke_ball_lid": "2024-10-13 22:12:01 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/red_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/summon/tres_orb": {
+    "criteria": {
+      "has_orb": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/timed_fall": {
+    "criteria": {
+      "has_ender_pearl": "2024-10-13 22:11:34 +0200",
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/stripped_ultra_gingko_wood": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/yellow_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/light_blue_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/pink_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/ball/dream_ball_new": {
+    "criteria": {
+      "has_dusk_ball": "2024-10-13 22:21:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/purple_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/bench": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/polished_ultra_space_stone_slab_from_polished_ultra_space_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/green_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/ball/poke_ball": {
+    "criteria": {
+      "has_poke_ball_lid": "2024-10-13 22:12:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/yellowbadgecase": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-10-13 22:32:04 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/camera": {
+    "criteria": {
+      "has_glass_pane": "2024-10-13 22:11:34 +0200",
+      "has_redstone_torch": "2024-10-13 22:11:34 +0200",
+      "has_film": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/red_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_machine": {
+    "criteria": {
+      "has_left_holder": "2024-10-13 22:11:34 +0200",
+      "has_right_holder": "2024-10-13 22:11:34 +0200",
+      "has_panel": "2024-10-13 22:11:34 +0200",
+      "has_monitor": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-10-13 22:11:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-13 22:10:34 +0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_type_strong": {
+    "criteria": {
+      "has_lum": "2024-10-13 22:11:34 +0200",
+      "has_sitrus": "2024-10-13 22:11:34 +0200",
+      "has_enigma": "2024-10-13 22:11:34 +0200",
+      "has_case_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-10-13 22:11:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/yellow_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/gem/type_gem": {
+    "criteria": {
+      "has_crystal_block": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/black_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-10-13 22:13:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-10-14 00:53:29 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_wood": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/max_soup": {
+    "criteria": {
+      "has_max_mushroom": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
+    "criteria": {
+      "has_poke_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/aluminum_base": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_great_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/street_light": {
+    "criteria": {
+      "has_glass_pane": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "spider_nest": "2024-10-14 00:17:21 +0200",
+      "clover_patch": "2024-10-14 00:13:21 +0200",
+      "wasteland": "2024-10-14 01:01:40 +0200",
+      "shrubland": "2024-10-13 23:55:58 +0200",
+      "rocky_shrubland": "2024-10-14 00:11:30 +0200",
+      "old_growth_dead_forest": "2024-10-13 22:58:23 +0200",
+      "lush_desert": "2024-10-14 00:59:47 +0200",
+      "redwood_forest": "2024-10-14 00:10:44 +0200",
+      "fir_clearing": "2024-10-13 23:33:23 +0200",
+      "prairie": "2024-10-13 23:51:25 +0200",
+      "snowy_coniferous_forest": "2024-10-13 22:10:53 +0200",
+      "gravel_beach": "2024-10-13 23:34:53 +0200",
+      "glowing_grotto": "2024-10-13 22:57:25 +0200",
+      "lush_savanna": "2024-10-14 01:09:00 +0200",
+      "seasonal_forest": "2024-10-13 23:35:02 +0200",
+      "highland": "2024-10-13 23:47:25 +0200",
+      "dead_forest": "2024-10-13 23:01:47 +0200",
+      "rainforest": "2024-10-14 01:19:01 +0200",
+      "volcano": "2024-10-14 01:15:52 +0200",
+      "crag": "2024-10-14 01:14:29 +0200",
+      "coniferous_forest": "2024-10-13 23:36:04 +0200",
+      "pasture": "2024-10-13 23:52:17 +0200",
+      "marsh": "2024-10-13 23:56:45 +0200"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/equipment/flute/black_flute": {
+    "criteria": {
+      "has_black_shard": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/purple_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
+    "criteria": {
+      "has_poke_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-10-14 00:48:39 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-10-14 00:53:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-10-14 00:15:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/gray_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/light_gray_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/mach_bike_frame": {
+    "criteria": {
+      "has_thunder_stone": "2024-10-13 22:11:34 +0200",
+      "has_wheel": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/red_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-10-14 00:47:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/gray_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/pink_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/orange_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/light_gray_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/green_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/blue_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/gigaton_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/ice_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/brown_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/small_tv": {
+    "criteria": {
+      "has_glass_pane": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-10-13 22:25:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/pink_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/orange_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/greenbadgecase": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_sandstone_slab_from_ultra_desert_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/pink_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/blue_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/brown_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/white_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_cut_sandstone_slab_from_ultra_desert_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/green_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/window1": {
+    "criteria": {
+      "has_glass_pane": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/window2": {
+    "criteria": {
+      "has_glass_pane": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/polished_ultra_space_stone": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/polished_ultra_space_stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/white_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_sandstone_stairs_from_ultra_desert_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/light_blue_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/black_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/pinap_juice": {
+    "criteria": {
+      "has_berry": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/old_rod": {
+    "criteria": {
+      "has_string": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/cyan_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/pink_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/platinum_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/wooden_hammer": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/red_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dive_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/elevator": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/green_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/lime_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/magenta_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/magenta_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/orange_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/redbadgecase": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/ball/ultra_ball": {
+    "criteria": {
+      "has_poke_ball_lid": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/temple_pillar": {
+    "criteria": {
+      "has_temple_brick": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/whitebadgecase": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/stonecutter/sky_tumblestone": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_cut_sandstone_slab_from_ultra_desert_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/cyan_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-13 22:42:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/cyan_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/white_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-10-13 22:15:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/cyan_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/blue_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/green_flute": {
+    "criteria": {
+      "has_green_shard": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/platinum_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/lime_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/light_gray_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/cyan_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_blue_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/white_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-13 22:42:16 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/black_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/blue_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/skitty_smoothie": {
+    "criteria": {
+      "has_moomoo_milk": "2024-10-13 22:11:34 +0200",
+      "has_berry": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/magenta_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+    "criteria": {
+      "wild_battle_victory_trigger": "2024-10-13 23:42:01 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/dusk_stone/dusk_stone_equipment": {
+    "criteria": {
+      "has_dusk_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/orange_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-13 22:57:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-10-13 22:20:27 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_shiny_weak": {
+    "criteria": {
+      "has_salac": "2024-10-13 22:11:34 +0200",
+      "has_lansat": "2024-10-13 22:11:34 +0200",
+      "has_case_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/good_rod": {
+    "criteria": {
+      "has_old_rod": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/stick_plate": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/lime_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/ultra_space_stone_button": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/ev_boost/carbos": {
+    "criteria": {
+      "has_feather": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/bauxite_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/summon/porygon_piece": {
+    "criteria": {
+      "has_all_porygon_pieces": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_panel": {
+    "criteria": {
+      "has_poke_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/orange_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/big_tv": {
+    "criteria": {
+      "has_tv2": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/orange_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/silver_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/gray_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_smooth_sandstone_stairs_from_ultra_desert_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/light_gray_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/pink_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/ruins_wall": {
+    "criteria": {
+      "has_temple_block": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_blue_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/purple_dye": {
+    "criteria": {
+      "has_cactus": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_planks": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/leaf_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_planks": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/thunder_stone/thunder_stone_equipment": {
+    "criteria": {
+      "has_thunder_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/mystery_box": {
+    "criteria": {
+      "has_scrap": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/red_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/light_gray_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/white_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/white_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/light_blue_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/light_gray_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/meteorite": {
+    "criteria": {
+      "has_end_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/old_running_boots": {
+    "criteria": {
+      "has_feather": "2024-10-13 22:11:34 +0200",
+      "has_boots": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/premier_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-10-13 22:12:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/stonecutter/black_tumblestone": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/roserade_tea": {
+    "criteria": {
+      "has_berry": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/blue_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/tv": {
+    "criteria": {
+      "has_glass_pane": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/polished_ultra_space_stone_wall": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-10-13 22:55:01 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/cave_rock": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200",
+      "has_clay": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/green_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:12:55 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/brown_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/bluebadgecase": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_cleaner": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-10-13 22:25:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/water_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/iron_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/yellow_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/red_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/purple_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/toast": {
+    "criteria": {
+      "has_bread": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_chiseled_sandstone_from_ultra_desert_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/sapphire_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/gray_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/infuser": {
+    "criteria": {
+      "has_furnace": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/ice_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/blue_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/moon_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/yellow_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/potato_pack": {
+    "criteria": {
+      "has_potato": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/spruce_bench": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/thunder_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/gray_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_planks": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/lime_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/red_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/blank_unown_block": {
+    "criteria": {
+      "has_temple_block": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-10-13 22:11:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-10-13 22:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/reveal_glass": {
+    "criteria": {
+      "has_emerald": "2024-10-13 22:13:05 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/sweet_heart": {
+    "criteria": {
+      "has_sugar": "2024-10-13 22:11:34 +0200",
+      "has_cocoa_beans": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/ev_boost/calcium": {
+    "criteria": {
+      "has_feather": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/dark_oak_bench": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/washing_machine": {
+    "criteria": {
+      "has_glass_pane": "2024-10-13 22:11:34 +0200",
+      "has_water_bucket": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/brown_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/inside_wall_molding": {
+    "criteria": {
+      "has_inside_wall": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/yellow_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/tapu_cocoa": {
+    "criteria": {
+      "has_moomoo_milk": "2024-10-13 22:11:34 +0200",
+      "has_cocoa_beans": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/oven": {
+    "criteria": {
+      "has_oven": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/ball/quick_ball": {
+    "criteria": {
+      "has_poke_ball_lid": "2024-10-13 22:22:08 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/dusk_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_shiny_strong": {
+    "criteria": {
+      "has_lansat": "2024-10-13 22:11:34 +0200",
+      "has_case_recipe": "2024-10-13 22:11:34 +0200",
+      "has_starf": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/brown_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/fan": {
+    "criteria": {
+      "has_terracotta": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_poke_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-10-13 22:21:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/light_blue_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/white_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/pink_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/handles": {
+    "criteria": {
+      "has_mach_bike_frame": "2024-10-13 22:11:34 +0200",
+      "has_acro_bike_frame": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/ice_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/temple_brick_slab": {
+    "criteria": {
+      "has_temple_brick": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/reassembly_unit": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200",
+      "has_emerald": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/green_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/silver_base": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/pink_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/orange_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/yellow_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/glass_table": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/pink_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/magenta_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_wood": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/green_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/wheel": {
+    "criteria": {
+      "has_mach_bike_frame": "2024-10-13 22:11:34 +0200",
+      "has_acro_bike_frame": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/crystal_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/polished_ultra_space_stone_from_ultra_space_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-10-13 22:11:45 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/magenta_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/net_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/blue_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/ev_boost/zinc": {
+    "criteria": {
+      "has_feather": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-10-13 22:24:06 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/safari_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/pinkbadgecase": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/red_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/ultra_space_stone_wall": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-10-13 22:11:45 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2024-10-13 22:10:52 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mower2": {
+    "criteria": {
+      "has_shears": "2024-10-13 22:11:34 +0200",
+      "has_hopper": "2024-10-13 22:11:34 +0200",
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/brittle_bones": {
+    "criteria": {
+      "has_bone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/acro_bike_frame": {
+    "criteria": {
+      "has_wheel": "2024-10-13 22:11:34 +0200",
+      "has_dawn_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/red_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/love_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_ha_weak": {
+    "criteria": {
+      "has_petaya": "2024-10-13 22:11:34 +0200",
+      "has_salac": "2024-10-13 22:11:34 +0200",
+      "has_case_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_rare_soda": {
+    "criteria": {
+      "has_soda": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-10-13 22:11:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/incense_burner": {
+    "criteria": {
+      "has_coal": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_gray_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/black_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-10-13 22:12:12 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/temple_block_slab": {
+    "criteria": {
+      "has_temple_block": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/silicon_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine": {
+    "criteria": {
+      "has_fossil_machine_display": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/gray_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:44 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/water_stone/water_stone_equipment": {
+    "criteria": {
+      "has_water_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/wing_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/pink_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/concealment_key": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/summon/red_chain": {
+    "criteria": {
+      "has_all_rubies": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/sun_stone/sun_stone_equipment": {
+    "criteria": {
+      "has_sun_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/dawn_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/pungent_root": {
+    "criteria": {
+      "has_big_root": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/white_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/black_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/ultra_space_stone_stairs_from_ultra_space_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/blue_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_heavy_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/lime_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_ha_strong": {
+    "criteria": {
+      "has_petaya": "2024-10-13 22:11:34 +0200",
+      "has_case_recipe": "2024-10-13 22:11:34 +0200",
+      "has_starf": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_planks": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/black_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/yellow_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "snowy_coniferous_forest": "2024-10-13 22:10:53 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/pink_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_cut_sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/blue_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/light_workstation": {
+    "criteria": {
+      "has_tv2": "2024-10-13 22:11:34 +0200",
+      "has_white_terracotta": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/pink_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/cyan_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/gray_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:balls/ultra_ball_capture": {
+    "criteria": {
+      "ultra_ball_capture": "2024-10-14 00:51:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/ultra_space_stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/mixed_mushrooms": {
+    "criteria": {
+      "has_tiny_mushroom": "2024-10-13 22:11:34 +0200",
+      "has_brown_mushroom": "2024-10-13 22:11:34 +0200",
+      "has_red_mushroom": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/pink_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:balls/dusk_ball_capture": {
+    "criteria": {
+      "dusk_ball_capture": "2024-10-13 23:00:38 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_casing_weak": {
+    "criteria": {
+      "has_crystal": "2024-10-13 22:11:34 +0200",
+      "has_iron_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/yellow_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/brown_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/brown_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/item_finder": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_planks": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_planks": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/thunder_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/blue_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/new_running_boots": {
+    "criteria": {
+      "has_old_running_boots": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/fire_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/ultra_space_stone_slab": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-10-13 22:11:45 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/magenta_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/red_flute": {
+    "criteria": {
+      "has_red_shard": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/incense/all_incense": {
+    "criteria": {
+      "has_incense_burner": "2024-10-13 22:11:34 +0200",
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/red_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/lime_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/polished_ultra_space_stone_stairs_from_polished_ultra_space_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mug_base": {
+    "criteria": {
+      "has_clay": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dusk_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/light_blue_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/ball/dusk_ball": {
+    "criteria": {
+      "has_poke_ball_lid": "2024-10-13 22:21:47 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-10-13 22:11:44 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/boiled_egg": {
+    "criteria": {
+      "has_egg": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_trim": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/cyan_folding_chair_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/yellow_juice": {
+    "criteria": {
+      "has_yellow_juice_berry_3": "2024-10-14 00:51:29 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/black_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine_tank": {
+    "criteria": {
+      "has_fossil_machine_base": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/blackbadgecase": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/stripped_ultra_elm_wood": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/purple_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_elm/ultra_elm_sign": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2024-10-14 00:48:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-10-13 22:45:02 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/bauxite_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/smoke_poke": {
+    "criteria": {
+      "has_slowpoke_tail": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_planks": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/cyan_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_casing_strong": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-13 22:11:34 +0200",
+      "has_crystal": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/leaden_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/light_blue_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/green_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/gray_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/green_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/rock": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/box": {
+    "criteria": {
+      "has_paper": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/ruby_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/brown_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/jungle_bench": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/purple_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/white_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/red_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/light_gray_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/pink_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/white_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/blue_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/white_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/dusty_ruins_wall": {
+    "criteria": {
+      "has_ruins_wall": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/temple_brick_stairs": {
+    "criteria": {
+      "has_temple_brick": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-10-13 22:21:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-10-13 22:57:55 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/lime_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_button": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-10-13 22:11:45 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mug_ball": {
+    "criteria": {
+      "has_poke_ball": "2024-10-13 22:11:34 +0200",
+      "has_clay": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/orange_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/fire_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/orange_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/light_gray_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/mach_bike": {
+    "criteria": {
+      "has_mach_bike_frame": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/gray_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/water_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-10-13 22:44:17 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/sun_stone": {
+    "criteria": {
+      "has_evo_item": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/ruby_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/couch/white_couch": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-10-13 23:26:36 +0200",
+      "minecraft:flower_forest": "2024-10-13 23:55:46 +0200",
+      "minecraft:beach": "2024-10-13 23:43:20 +0200",
+      "minecraft:taiga": "2024-10-13 22:19:37 +0200",
+      "minecraft:river": "2024-10-13 23:01:11 +0200",
+      "minecraft:stony_shore": "2024-10-13 23:33:27 +0200",
+      "minecraft:lush_caves": "2024-10-13 22:44:36 +0200",
+      "minecraft:snowy_taiga": "2024-10-13 22:11:58 +0200",
+      "minecraft:old_growth_birch_forest": "2024-10-14 00:14:02 +0200",
+      "minecraft:frozen_ocean": "2024-10-13 23:17:00 +0200",
+      "minecraft:desert": "2024-10-14 00:59:00 +0200",
+      "minecraft:frozen_river": "2024-10-13 22:26:32 +0200",
+      "minecraft:swamp": "2024-10-13 23:56:44 +0200",
+      "minecraft:plains": "2024-10-13 23:40:15 +0200"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/blast_furnace/shiny_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/trash_can": {
+    "criteria": {
+      "has_bucket": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/crystal_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/purple_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/dark_workstation": {
+    "criteria": {
+      "has_tv2": "2024-10-13 22:11:34 +0200",
+      "has_black_terracotta": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/green_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/folding_chair/yellow_folding_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/film": {
+    "criteria": {
+      "has_paper": "2024-10-13 22:11:34 +0200",
+      "has_camera": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/cyan_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/gold_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_smooth_sandstone_slab_from_ultra_desert_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/ultra_jungle_wood": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/komala_coffee": {
+    "criteria": {
+      "has_cocoa_beans": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-10-13 23:09:06 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/yellow_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/poke_dirt": {
+    "criteria": {
+      "has_dirt": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/acro_bike": {
+    "criteria": {
+      "has_acro_bike_frame": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/red_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-10-13 22:15:33 +0200",
+      "bread": "2024-10-13 22:15:07 +0200"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/pokeball/lid/fast_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/temple_block": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/magenta_chair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/acacia_bench": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/summon/dos_orb": {
+    "criteria": {
+      "has_orb": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/cloning/orange_tank": {
+    "criteria": {
+      "has_fossil_machine": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-10-13 22:47:41 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/ultra_space_stone_slab_from_ultra_space_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_jungle/stripped_ultra_jungle_wood": {
+    "criteria": {
+      "has_log": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_fence": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/gray_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_cut_sandstone_from_ultra_desert_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/black_clock": {
+    "criteria": {
+      "has_clock": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/sun_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/blue_berry_wood_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/yellow_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-13 23:26:32 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/cloning/green_tank": {
+    "criteria": {
+      "has_fossil_machine": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/shiny_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/gray_healer": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/stonecutter/tumblestone": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-10-13 23:09:22 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_type_weak": {
+    "criteria": {
+      "has_oran": "2024-10-13 22:11:34 +0200",
+      "has_leppa": "2024-10-13 22:11:34 +0200",
+      "has_case_recipe": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/magenta_gym_sign": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
+    "criteria": {
+      "has_poke_ball": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/cloning/cloner_cord": {
+    "criteria": {
+      "has_obsidian": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-10-13 22:47:36 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-13 23:26:30 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/yellow_berry_wood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/magenta_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/yellow_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/froggy_chair": {
+    "criteria": {
+      "has_chair": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_middle": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_e3": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_gingko/ultra_gingko_door": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_e4": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_desert/ultra_desert_sandstone": {
+    "criteria": {
+      "has_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_e1": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_e2": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/pink_cash_register": {
+    "criteria": {
+      "has_dye": "2024-10-13 22:11:34 +0200",
+      "has_redstone_lamp": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-10-13 22:30:03 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mower": {
+    "criteria": {
+      "has_shears": "2024-10-13 22:11:34 +0200",
+      "has_hopper": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/white_vending_machine": {
+    "criteria": {
+      "has_soda_pop": "2024-10-13 22:11:34 +0200",
+      "has_lemonade": "2024-10-13 22:11:34 +0200",
+      "has_fresh_water": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/end_table": {
+    "criteria": {
+      "has_crafting_table": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/pink_berry_wood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-13 22:57:55 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/brown_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/chiseled_ultra_space_stone_from_ultra_space_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-10-13 22:31:55 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_c3": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_c4": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_c1": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/sand/poke_sand_c2": {
+    "criteria": {
+      "has_poke_sand": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/broken_pillar": {
+    "criteria": {
+      "has_temple_brick": "2024-10-13 22:11:34 +0200",
+      "has_temple_block": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/orange_water_float": {
+    "criteria": {
+      "has_slime": "2024-10-14 00:57:24 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/sun_stone_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/green_berry_wood_boat": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/silicon_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/birch_bench": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/fridge": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/blast_furnace/sapphire_ore": {
+    "criteria": {
+      "has_ore": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/flute/white_flute": {
+    "criteria": {
+      "has_white_shard": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-13 22:42:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-13 22:11:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-10-13 22:48:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:41:13 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/berry_structures/purple_berry_wood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/bridge_block": {
+    "criteria": {
+      "has_logs": "2024-10-13 22:11:44 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/orange_armchair": {
+    "criteria": {
+      "has_wool": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/feather_ball_lid": {
+    "criteria": {
+      "has_tumblestone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/ultra_space_stone/polished_ultra_space_stone_slab": {
+    "criteria": {
+      "has_stone": "2024-10-13 22:11:34 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}

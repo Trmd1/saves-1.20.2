@@ -1,0 +1,22 @@
+{
+  "id": "swap-biome-table-enchant_-6677-79-5725",
+  "name": "swap biome + table enchant",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5204129-waypoint-icon.png",
+  "x": -6677,
+  "y": 79,
+  "z": -5725,
+  "r": 176,
+  "g": 151,
+  "b": 95,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

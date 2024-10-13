@@ -1,0 +1,22 @@
+{
+  "id": "taiga-biome_-953-76-317",
+  "name": "taiga biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15993959-waypoint-icon.png",
+  "x": -953,
+  "y": 76,
+  "z": 317,
+  "r": 11,
+  "g": 243,
+  "b": 153,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

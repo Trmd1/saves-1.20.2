@@ -1,0 +1,22 @@
+{
+  "id": "snowy-biome_-667-82-637",
+  "name": "snowy biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15919772-waypoint-icon.png",
+  "x": -667,
+  "y": 82,
+  "z": 637,
+  "r": 13,
+  "g": 21,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

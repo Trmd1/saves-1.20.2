@@ -1,0 +1,22 @@
+{
+  "id": "highland-biome_-6023-70-4891",
+  "name": "highland biome",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5520718-waypoint-icon.png",
+  "x": -6023,
+  "y": 70,
+  "z": -4891,
+  "r": 171,
+  "g": 194,
+  "b": 178,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

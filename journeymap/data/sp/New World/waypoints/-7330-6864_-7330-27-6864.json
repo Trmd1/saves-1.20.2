@@ -1,0 +1,22 @@
+{
+  "id": "-7330-6864_-7330-27-6864",
+  "name": "-7330, -6864",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4941575-waypoint-icon.png",
+  "x": -7330,
+  "y": -27,
+  "z": -6864,
+  "r": 180,
+  "g": 152,
+  "b": 249,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
